@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dario 👋
 
-<!--
-**dariopranjic/dariopranjic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on C# and .NET backend development.
 
-Here are some ideas to get you started:
+## Tech Stack
+- C#
+- ASP.NET Core
+- .NET
+- SQL
+- MVC Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building structured backend web applications and continuously improving my understanding of software architecture and object-oriented programming.
+
+## Projects
+🔹 SimplyAppoint – Appointment management web application built with ASP.NET Core MVC.
